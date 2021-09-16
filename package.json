@@ -1,0 +1,16 @@
+{
+  "name": "thaili",
+  "version": "1.0.0",
+  "description": "E2E Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avin || Product Manager",
+  "license": "ISC",
+  "devDependencies": {
+    "chance": "^1.1.8",
+    "cypress": "^8.4.0",
+    "e2e": "cypress open"
+  }
+}
